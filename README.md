@@ -30,38 +30,22 @@ Working with JAX and Flax has transformed how machine learning research is done 
 
 ---
 
-## 📂 Repository Structure
-
-```
-.
-├── models/                  # Flax model definitions
-├── notebooks/               # Jupyter notebooks for usage examples
-├── weights/                 # Scripts or links to pretrained weight loading
-├── utils/                   # Helper functions (tokenization, etc.)
-└── README.md
-```
-
----
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="screenshots/sample_model_arch.png" width="70%" alt="Model Screenshot"/>
-</p>
-
-*Screenshot: A sample Flax model implementation from the project.*
+will be added later
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m an undergraduate student with a deep interest in deep learning, especially model internals and efficiency. I’ve worked on both image and audio classification pipelines, built custom CNNs, and am currently exploring generative models using 3D U-Nets and factorized attention. You can learn more about me from the [proposal PDF](./GSOC_Proposal.pdf) included in this repo.
+I’m an undergraduate student with a deep interest in deep learning, especially model internals and efficiency. I’ve worked on both image and audio classification pipelines, built custom CNNs, and am currently exploring generative models using 3D U-Nets and factorized attention. You can learn more about me from the [proposal PDF](./Proposal_two.pdf) included in this repo.
 
 ---
 
 ## 📨 Contact
 
-- 📧 Email: [your-email@example.com]
-- 🧠 LinkedIn / Portfolio / GitHub: [links here]
+- 📧 Email: tungamayukh@gmail.com
+- 🧠 LinkedIn: [Mayukh Tunga](https://www.linkedin.com/in/mayukh-tunga/)
 
 ---
